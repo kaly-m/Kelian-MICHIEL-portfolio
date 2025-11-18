@@ -9,11 +9,11 @@ bio: true
 icon: ":coffee:"
 ---
 
-✨ Bienvenue dans mon portfolio ! Cette courte bibliographie présente ma personne ainsi que mes ambitions concernant mon parcours professionnel. Ma curiosité et mon esprit d'analyse sont mes atouts pour réussir dans mes projets. ✨
+✨ Bienvenue dans mon portfolio ! Cette courte biographie présente ma personne ainsi que mes ambitions concernant mon parcours professionnel. Ma curiosité et mon esprit d'analyse sont mes atouts pour réussir dans mes projets. ✨
 
 💻 Mon parcours 💻
 
-J’ai commencé en 2021 une école préparatoire intégrée où j’ai appris à coder en C et en python. Suite à cette première année, j’ai su que l’informatique était ce qui me plaisait le plus. J’ai cependant décidé de prendre une année de césure en Australie où j’ai pu parfaire mon anglais et découvrir de nouvelles cultures. Lors de mon retour en France, j’étais déterminé à reprendre les études pour pouvoir travailler dans un domaine que j’aime et qui m’anime. Je me suis alors réorienté en BUT informatique pour enrichir mes connaissances dans ce milieu. Grâce à cette formation, j’apprends de nouvelles choses de jour en jour et compte bien continuer sur ma lancée.
+J’ai commencé en 2021 une école préparatoire intégrée où j’ai appris à coder en C et en python. Suite à cette première année, j’ai su que l’informatique était ce qui me plaisait le plus. J’ai cependant décidé de prendre une année de césure en Australie où j’ai pu parfaire mon anglais et découvrir de nouvelles cultures. Lors de mon retour en France, j’étais déterminé à reprendre les études pour pouvoir travailler dans un domaine que j’aime et qui m’anime. Je me suis alors réorienté en BUT informatique pour enrichir mes connaissances dans ce milieu. Grâce à cette formation, j’apprends de nouvelles choses de jour en jour et compte bien continuer sur ma lancée. Aujourd'hui, je suis en 3ème année de BUT Informatique en alternance chez [HORIBA Médical](https://www.linkedin.com/company/horiba-medical-france/) en tant que développeur embarqué au sein de la R&D.
 
 🌐 Mon voyage en Australie 🌐
 

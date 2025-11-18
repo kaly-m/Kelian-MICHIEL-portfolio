@@ -1,4 +1,4 @@
-module github.com/kaly-m/portfolio
+module github.com/kaly-m/Kelian-MICHIEL-portfolio
 
 go 1.23.4
 
