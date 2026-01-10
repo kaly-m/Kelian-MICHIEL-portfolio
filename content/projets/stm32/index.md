@@ -15,21 +15,21 @@ L'**obsolescence** est un sujet controversé dans le monde de l'informatique. En
 
 C'est le cas du **microcontrôleur** MC68HC11. Ce microcontrôleur a vu le jour dans les années 1980 / 1990. Produit par Motorola à ses débuts, il a ensuite été racheté par de nombreuses entreprises pour finir entre les mains de NXP Semiconductors. NXP a cependant annoncé la fin de production de ce microcontrôleur en **juin 2022**. Cela le rend donc indisponible à la vente.
 
-Cette annonce à surement dû bouleverser plus d'une entreprise, l'une d'entre elles, dénommée HORIBA, possédait en effet plusieurs machines en production avec le microcontrôleur MC68HC11 sur leurs cartes. Cette problématique à donc constitué le sujet de mon stage de seconde année de BUT Informatique. Stage durant lequel j'ai du effectuer le développement d'une solution de remplacement du MC68HC11 sur le Pentra 80 (un automate produit par HORIBA).
+Cette annonce à surement dû bouleverser plus d'une entreprise, l'une d'entre elles, dénommée HORIBA, possédait en effet plusieurs machines en production avec le microcontrôleur MC68HC11 sur leurs cartes. Cette problématique a donc constitué le sujet de mon stage de seconde année de BUT Informatique. Stage durant lequel j'ai dû effectuer le développement d'une solution de remplacement du MC68HC11 sur le Pentra 80 (un automate produit par HORIBA).
 
 La solution de remplacement choisie est le STM32, et plus précisément, le modèle G0B1RE. Il a fallu donc porter du code assembleur vers du code en C, le tout avec des problématiques microélectroniques. En effet, développer une solution de remplacement nécessite de coller à l'existant. Le STM32 étant nettement plus performant qu'un HC11, il a fallu le brider pour obtenir les mêmes performances.
 
-Ce projet a été réalisé dans un **cadre professionnel** sur une durée de **10 semaines** (mi-janvier / mars). J'ai pu travailler tout du long de mon stage avec mon maître de stage, Christophe Domergue, avec l'équipe de développement embarqué ainsi qu'avec l'équipe d'électroniciens. De ce fait, j'ai pu aborder plusieurs aspect d'un point de vue métier (Développement / Microélectronique).
+Ce projet a été réalisé dans un **cadre professionnel** sur une durée de **10 semaines** (mi-janvier / mars). J'ai pu travailler tout du long de mon stage avec mon maître de stage, Christophe Domergue, avec l'équipe de développement embarqué ainsi qu'avec l'équipe d'électroniciens. De ce fait, j'ai pu aborder plusieurs aspect d'un point de vue métier (Développement embarqué / Microélectronique).
 
 ## Méthodes de travail
 
-Concernant les méthodes de travail, nous travaillons selon des **points hebdos** réalisés chaque semaine avec l'équipe de **développeurs embarqués**. Ces points hebdos consistaient à tenir informé l'équipe des **avancements** de chacun ainsi qu'a **mettre en commun** pour **prendre du recul** sur les projets nécessitant du **soutien**.
+Concernant les méthodes de travail, nous travaillions selon des **points hebdos** réalisés chaque semaine avec l'équipe de **développeurs embarqués**. Ces points hebdos consistaient à tenir informé l'équipe des **avancements** de chacun ainsi qu'à **mettre en commun** pour **prendre du recul** sur les projets nécessitant du **soutien**.
 
 {{< figArray subfolder="images" figCaption="Environnement de laboratoire" >}}
 
 Comme vu sur la figure ci-dessus, l'environnement de travail était un **environnement de laboratoire**. HORIBA développe des **automates d'analyse sanguine**, les tests étaient donc réalisés dans l'environnement adéquat avec le port de la **blouse** et des **gants** en nitrile.
 
-Le projet à été versionné via le **GitLab** de l'entreprise, RedLab.
+Le projet à été versionné via une solution interne à l'entreprise, RedLab
 
 ## Compétences travaillées
 
