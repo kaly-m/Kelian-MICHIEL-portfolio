@@ -10,7 +10,7 @@ cardimage: two.jpg
 
 Pour chaque apprentissage critique, vous trouverez chaque projet qui démontre mon niveau avec un texte descriptif ainsi que les traces associées.
 
-Le niveau suivra l'échelle suivante : **Non-Acquis ⭢ En cours d'acquisition ⭢ Acquis**
+Le niveau suivra l'échelle suivante : **Non-Acquis** ⭢ **En cours d'acquisition** ⭢ **Acquis**
 
 ## Compétence n°2 : Optimiser des applications
 
